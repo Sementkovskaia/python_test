@@ -1,5 +1,5 @@
 # python_test
-python test trials
+
 
 This repository stores solutions to two tasks that were done using Python:
 
